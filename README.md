@@ -12,8 +12,9 @@ real-time updates included — when a task is added, it's reflected instantly.
 ## 📹 Demo Video
 
 <!-- https://github.com/helloAmulya/supabase-project-1/main/src/assets/projectVideo.mov -->
+<!-- [📽️ watch demo (projectVideo.mov)](./src/assets/projectVideo.mov) -->
+[▶️ Watch on Twitter](https://twitter.com/helloAmulya/status/1922458240845033970)
 
-[📽️ watch demo (projectVideo.mov)](./src/assets/projectVideo.mov)
 
 > ⚠️ github won’t preview `.mov` inline — download or open manually to watch
 

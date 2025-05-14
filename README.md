@@ -44,11 +44,10 @@ SupaNew/
 ├── src/
 │   ├── assets/
 │   │   └── projectVideo.mov
+│   │   └── projectImage.png
 │   ├── components/
 │   │   └── TaskM.jsx
 │   ├── SupaBase.js
-├── assets/
-│   └── projectImage.png
 ├── .env
 ├── .gitignore
 ├── README.md

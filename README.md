@@ -1,12 +1,39 @@
-# React + Vite
+# 📝 Task Manager — Supabase x React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+a basic task manager built using React + Supabase.
 
-Currently, two official plugins are available:
+you can add tasks with title, description, and image.  
+it saves to a Supabase table and uploads the image to Supabase Storage.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+real-time updates included — when a task is added, it's reflected instantly.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📹 Demo Video
+
+<!-- https://github.com/helloAmulya/supabase-project-1/main/src/assets/projectVideo.mov -->
+
+[📽️ watch demo (projectVideo.mov)](./src/assets/projectVideo.mov)
+
+> ⚠️ github won’t preview `.mov` inline — download or open manually to watch
+
+---
+
+---
+
+## 🖼️ Preview
+
+<img src="./src/assets/projectImage.png" alt="Task Manager Screenshot" width="600" />
+
+---
+
+## ⚙️ Stack
+
+- React (Vite)
+- Supabase (Database + Storage + Realtime)
+- TailwindCSS
+
+---
+
+## 📁 Folder Structure
+

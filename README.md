@@ -38,16 +38,17 @@ real-time updates included — when a task is added, it's reflected instantly.
 
 ## 📁 Folder Structure
 
+```bash
 SupaNew/
 ├── public/
 ├── src/
-│ ├── assets/
-│ │ ├── projectVideo.mov
-│ ├── components/
-│ │ └── TaskM.jsx
-│ ├── SupaBase.js
+│   ├── assets/
+│   │   └── projectVideo.mov
+│   ├── components/
+│   │   └── TaskM.jsx
+│   ├── SupaBase.js
 ├── assets/
-│ └── projectImage.png
+│   └── projectImage.png
 ├── .env
 ├── .gitignore
 ├── README.md
